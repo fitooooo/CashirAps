@@ -1,16 +1,20 @@
 # CashirAps
+
 Aplikasi ini adalah aplikasi untuk manajemen barang, digunakan untuk menambahkan barang ke inventory
 ## Scope and Functionalities
+
 - User dapat menginputkan huruf dan angka
 - User dapat melihat total harga
 - User dapat melihat barang yang telah diinputkan pada ListBox
 - User dapat meng-klik tombol tambah
+
 ## How Does it works?
+
 Diawali dari method 'MainWindow()' pada 'class MainWindow.xaml.cs', kita deklarasikan dan membuat instance dari 'Calculator' 
 dan memasukkan list item ke ListBox yang didapat dari 'calculator.getListItem()'
 
-
-''' public MainWindow()
+'''
+ public MainWindow()
         {
             InitializeComponent();
             calculator = new Calculator();
@@ -22,7 +26,8 @@ Lalu akan dimasukkan kedalam sebuah objek 'Calculator' . Pada class ini juga ter
 
 private void AddButton_Click_1(object sender, RoutedEventArgs e)
 
-'''        {
+'''       
+        {
             string title = NameBox.Text;
             int jumlah = Convert.ToInt32(QuantityBox.Text);
             string type = TypeComboBox.Text;
@@ -42,7 +47,8 @@ private void AddButton_Click_1(object sender, RoutedEventArgs e)
 oleh user kedalam sebuah list dan menghitung total harganya
 
 
-''' public void AddItem(Item item)
+''' 
+public void AddItem(Item item)
         {
             this.listItem.Add(item);
             this.total += item.getSubtotal();
