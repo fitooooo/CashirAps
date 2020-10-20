@@ -1,0 +1,15 @@
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\bin\Debug\Cashir.exe.config
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\bin\Debug\Cashir.exe
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\bin\Debug\Cashir.pdb
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.csprojAssemblyReference.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\MainWindow.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\App.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir_MarkupCompile.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir_MarkupCompile.lref
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\MainWindow.baml
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.g.resources
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.Properties.Resources.resources
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.csproj.GenerateResource.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.exe
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Casier\Cashir\Cashir\obj\Debug\Cashir.pdb
